@@ -15,6 +15,7 @@ My focus in the technology field revolves around artificial intelligence and rel
 
 🌱 I’m currently learning Python.
 
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <!--
 **dududs8/dududs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
