@@ -15,4 +15,4 @@ My focus in the technology field revolves around artificial intelligence and rel
 
 🌱 I’m currently learning Python.
 
-![eduardo martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=dududs8&show_icons=true&theme=shades-of-purple)
+![eduardo martins's GitHub stats](https://github-readme-stats.vercel.app/api?username=dududs8&show_icons=true&theme=github_dark)
