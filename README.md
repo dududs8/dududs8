@@ -15,7 +15,7 @@ My focus in the technology field revolves around artificial intelligence and rel
 
 🌱 I’m currently learning Python.
 
-https://github.com/anuraghazra/github-readme-stats/blob/master/github_dark/README.md
+(https://github-readme-stats.vercel.app/api?username=dududs8&show_icons=true&theme=shades-of-purple)
 <!--
 **dududs8/dududs8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
