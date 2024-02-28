@@ -1,4 +1,4 @@
-### ## Português
+## Português
 Olá! Eu me chamo Eduardo Martins 👍<br>
 
 Sou um estudante de Sistemas de Informação na universidade CEFET-RJ. Resido no Rio de Janeiro. 
